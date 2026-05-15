@@ -1,2 +1,10 @@
-# data-analytics-project-portfolio
-“A comprehensive portfolio of data analytics projects including NLP-based autocomplete/autocorrect, wine quality prediction, customer segmentation, and data cleaning using Python, machine learning, and data visualization techniques.”
+# Data Analytics Project Portfolio
+
+## Projects Included:
+1. Autocomplete and Autocorrect using NLP
+2. Wine Quality Prediction
+3. Customer Segmentation Analysis
+4. Data Cleaning Project
+
+## Tools:
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLP
